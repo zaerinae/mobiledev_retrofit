@@ -1,6 +1,6 @@
 package com.zaerina.retrofitlatihan
 
-import android.telecom.Call
+import retrofit2.Call
 import retrofit2.http.GET
 
 interface Api {
